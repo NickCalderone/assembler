@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="33de41b9-ef00-438e-8c5a-4bf91220634f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ignore_space.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ignore_white.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ignore_blank_lines.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assembler.py" beforeDir="false" afterPath="$PROJECT_DIR$/assembler.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ignore_comment.py" beforeDir="false" afterPath="$PROJECT_DIR$/ignore_comment.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
