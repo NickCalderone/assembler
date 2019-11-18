@@ -13,3 +13,7 @@ with open('nand2tetrisfiles/projects/06/max/MaxL.asm', 'r') as f:
     # a operation/c operation handler
     value = converter(clean_program)
     print(value)
+
+    with open('result.hack', 'w') as r:
+        for item in value:
+            r.write("%s\n" % item)
