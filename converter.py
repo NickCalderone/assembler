@@ -1,5 +1,5 @@
 from a_operation import a_operation
-from o_operation import o_operation
+from c_operation import c_operation
 
 
 def converter(lines):
@@ -10,5 +10,6 @@ def converter(lines):
             result = a_operation(l)
             bin_list.append(result)
         else:
-            result = o_operation(l)
+            result = c_operation(l)
             bin_list.append(result)
+    return bin_list
