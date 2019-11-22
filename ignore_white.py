@@ -1,4 +1,4 @@
-from ignore_comment import ignore_comment
+from ignore_comment_line import ignore_comment_line
 
 
 def ignore_white(lines):
