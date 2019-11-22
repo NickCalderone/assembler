@@ -2,7 +2,7 @@ from a_operation import a_operation
 from c_operation import c_operation
 
 
-def converter(lines):
+def code(lines):
     bin_list = []
 
     for l in lines:

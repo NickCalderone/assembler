@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="33de41b9-ef00-438e-8c5a-4bf91220634f" name="Default Changelist" comment="" />
+    <list default="true" id="33de41b9-ef00-438e-8c5a-4bf91220634f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/add.hack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nand2tetrisfiles/projects/06/max/.Max.asm.swp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nand2tetrisfiles/projects/06/max/.MaxL.asm.swp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nand2tetrisfiles/tools/bin/Assembler.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nand2tetrisfiles/tools/bin/CPU Emulator.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pong.hack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rectangle.hack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assembler.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/converter.py" beforeDir="false" afterPath="$PROJECT_DIR$/code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nand2tetrisfiles/tools/Assembler.sh" beforeDir="false" afterPath="$PROJECT_DIR$/nand2tetrisfiles/tools/Assembler.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nand2tetrisfiles/tools/CPUEmulator.sh" beforeDir="false" afterPath="$PROJECT_DIR$/nand2tetrisfiles/tools/CPUEmulator.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result.hack" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +65,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/assembler.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
